@@ -15,4 +15,5 @@ stash在这里
 
 
 stash在这里
+git push origin master
 
